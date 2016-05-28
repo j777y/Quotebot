@@ -1,7 +1,7 @@
 tweepy
 redis
 datetime
-pickle
+pickle==1.1
 sys
 bson
 logging
