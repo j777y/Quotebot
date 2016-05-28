@@ -1,7 +1,6 @@
 tweepy
 redis
 datetime
-sys
 bson
 logging
 requests
