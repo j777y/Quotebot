@@ -1,6 +1,6 @@
 tweepy
+pymongo
 redis
 datetime
 logging
 requests
-pymongo
