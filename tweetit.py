@@ -28,15 +28,15 @@ class Tweet:
 class QUOTE(Tweet):
 	#My Twitter consumer key
 	
-	consumer_key='HHHHHHHHHHHHHHHHHHHHHHH'
+	consumer_key='DCpxbVNiAaXfn3rAmuuG0Cew7'
 	
 	#My consumer secret
 	
-	consumer_secret='IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII'
+	consumer_secret='oV9njr8Dax1JNNu2hbqE6AsBpv28teuxUHkMjHs5Kew0TM92sB'
 	
 	#My access token
-	access_token='DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD'
+	access_token='701008448360546304-bCi8zCIJJD2D5oMJj1DXf8n9Q7IVntw'
 	
 	#My access token secret
-	access_token_secret='EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE'
+	access_token_secret='UUm10vwmLGgV8vrTPewUCl0HfmlkbjKpmSfrUiLFAVGy1'
 
