@@ -29,7 +29,7 @@ days_cats = pickle.load(open('dayscats.pickle','r'))
 quote = QUOTE()
 
 #credentials to be changed
-qhandle = quote.get_handle()
+qhandle = quote.get_handle('AGMz3q73QunZN5AG9eOrrQ')
 
 def return_date():
 	day_of_month = datetime.datetime.today().timetuple().tm_mday
