@@ -1,7 +1,6 @@
 tweepy
 redis
 datetime
-bson==0.4.3
 logging
 requests
 pymongo
